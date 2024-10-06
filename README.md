@@ -1,2 +1,2 @@
-# Readme file for more info here 
+# Readme file for maore info here 
 # Instructions will be here
